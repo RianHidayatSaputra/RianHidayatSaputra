@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rian Hidayat Saputra</h1>
 <h3 align="center">A passionate developer from Jepara</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.sl7nYjNIfPCoDuKqmWVi9gHaFj?rs=1&pid=ImgDetMain">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rianhidayatsaputra&label=Profile%20views&color=0e75b6&style=flat" alt="rianhidayatsaputra" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
